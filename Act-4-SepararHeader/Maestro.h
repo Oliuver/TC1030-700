@@ -23,7 +23,6 @@ void Maestro::setDepto(string dto){
 string Maestro::getDepto(){
     return Depto;
 };
-string Maestro::getDepto()
 void Maestro::muestraDatos(){
     cout<<"\nNombre: "<<nombre<<endl;
     cout<<"Edad: "<<edad<<endl;

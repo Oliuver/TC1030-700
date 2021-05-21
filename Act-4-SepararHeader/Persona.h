@@ -1,5 +1,5 @@
-#ifndef Persona.h
-#define Persona.h
+#ifndef Persona_h
+#define Persona_h
 
 class Persona{
     public:

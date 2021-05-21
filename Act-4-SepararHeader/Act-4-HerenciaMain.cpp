@@ -3,10 +3,9 @@
 // TC1030 gpo 700
 // 20 de mayo de 2021
 #include <iostream>
-#include <string>
+
 using namespace std;
 
-#include "Persona.h"
 #include "Estudiante.h"
 #include "Maestro.h"
 
